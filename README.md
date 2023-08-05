@@ -1,2 +1,3 @@
 # PYQT5-YTM
-YouTube Music app built in PYQT5.
+The PyQt5 YouTube Music App is a simple desktop application built using PyQt5 that allows you to access the YouTube Music website in a standalone window.
+Technically a Web-App.
