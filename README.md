@@ -4,4 +4,4 @@ Technically a Web-App.
 
 
 # Want to build it?
-Install PYQT5, and download youtube.py, you can modify it and stuff.
+Install PYQT5 & Python, and download youtube.py, you can modify it and stuff.
