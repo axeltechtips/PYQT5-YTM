@@ -1,6 +1,6 @@
 # PYQT5-YTM
 The PyQt5 YouTube Music App is a simple desktop application built using PyQt5 that allows you to access the YouTube Music website in a standalone window.
-Technically a Web-App.
+Technically a Web-App. This also includes uBlock Origin for non premium users.
 
 
 # Want to build it?
